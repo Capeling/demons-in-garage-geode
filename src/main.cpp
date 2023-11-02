@@ -14,7 +14,7 @@ class $modify(GJGarageLayer) {
 
 		auto demonIcon = Build<CCSprite>::createSpriteName("diffIcon_06_btn_001.png")
 			.parent(this)
-			.scale({0.525})
+			.scale(0.525)
 			.anchorPoint({0.5, 0.5})
 			.pos({winSize.width - 20, winSize.height - 114});
 			
