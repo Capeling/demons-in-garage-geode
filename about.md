@@ -1,3 +1,8 @@
-# Template Mod
+# Demons in Garage
 
-Edit about.md to change this
+Adds your demon count into the Garage (Icon Kit)!
+
+# Credits 
+
+- Alphalaneous
+- Geode
